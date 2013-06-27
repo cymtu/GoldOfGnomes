@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=GoldOfGnomes.chm
+Contents file=Table of Contents.hhc
+Default Window=GoldOfGnomes
+Default topic=Game.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x419 Русский (Россия)
+
+[WINDOWS]
+GoldOfGnomes=,"Table of Contents.hhc","Index.hhk",,,,,,,0x2120,,0x3006,,,,,,,,0
+Gold=,"Table of Contents.hhc","Index.hhk",,,,,,,0x20,,,[271,372,593,566],,,,,,,0
+
+
+[INFOTYPES]
+
